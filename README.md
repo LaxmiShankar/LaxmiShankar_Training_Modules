@@ -1,19 +1,18 @@
-# Laxmi Shankar Module One
+
+
+
+
+
+# Laxmi Shankar Module Two
 
 ## Answers: 
 
-1. A version control system manages and tracks changes to files.
-2. A new branch can be created by navigating to your repo using cd <path>, and then git branch <branch name>
-3. The git clone command creates a copy of an existing repository to your local machine.
-4. To stage changes, you just have to pusht the changes into 'staging'. Use git add . to stage the file.
-5. A pull request allows someone to review your changes and accept it back into the main branch.
+1. The command used to display the current working directory is pwd(print working directory).
+2. To create a new directory in Linux, use the command mkdir (directory name). 
+3. The ls command is used to list files & directories.
+4. To navigate to the parent directory, use cd .. this moves you up one directory level. 
+5. Use the cp (source file) (destination directory) to copy files in Linux.
 
-
-
-
-
-image:
-
-![alt text](https://raw.githubusercontent.com/LaxmiShankar/LaxmiShankar_Training_Modules/main/cat-nerd.png)
-
-Song link: [Currently in my throwback era](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH?si=2559ce9a34c74d00)
+Screenshot:
+Since I don't have Linux installed on my system, I used the cmd terminal instead. The big differences are that I would use the touch command to create the txt file and the cat command to display its contents.
+![alt text](https://raw.githubusercontent.com/LaxmiShankar/LaxmiShankar_Training_Modules/main/Terminal.png)
