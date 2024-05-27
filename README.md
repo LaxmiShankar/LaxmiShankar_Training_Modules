@@ -1,19 +1,13 @@
-# Laxmi Shankar Module One
+
+
+
+
+
+# Laxmi Shankar Module Three
 
 ## Answers: 
 
-1. A version control system manages and tracks changes to files.
-2. A new branch can be created by navigating to your repo using cd <path>, and then git branch <branch name>
-3. The git clone command creates a copy of an existing repository to your local machine.
-4. To stage changes, you just have to pusht the changes into 'staging'. Use git add . to stage the file.
-5. A pull request allows someone to review your changes and accept it back into the main branch.
-
-
-
-
-
-image:
-
-![alt text](https://raw.githubusercontent.com/LaxmiShankar/LaxmiShankar_Training_Modules/main/cat-nerd.png)
-
-Song link: [Currently in my throwback era](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH?si=2559ce9a34c74d00)
+1. To add a single line comment in C++, use // at the beginning. 
+2. Use # to write a single line comment in Python.
+3. Use a series of single line comments to write multi line comments in Python.
+4. Write a multi line comment in C++ /* like this*/
