@@ -13,4 +13,6 @@
 4. To navigate to the parent directory, use cd .. this moves you up one directory level. 
 5. Use the cp (source file) (destination directory) to copy files in Linux.
 
+Screenshot:
 Since I don't have Linux installed on my system, I used the cmd terminal instead. The big differences are that I would use the touch command to create the txt file and the cat command to display its contents.
+![alt text](https://raw.githubusercontent.com/LaxmiShankar/LaxmiShankar_Training_Modules/main/Terminal.png)
